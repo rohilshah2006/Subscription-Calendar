@@ -1,4 +1,4 @@
-# 🪐 Subscription Calendar
+# 📅 Subscription Calendar
 
 **A high-fidelity, visualization-first subscription tracker built with React.**
 

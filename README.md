@@ -2,7 +2,7 @@
 
 **A high-fidelity, visualization-first subscription tracker built with React.**
 
-Subscription Orbit transforms boring financial lists into a fluid, interactive calendar and radial visualization system. It moves beyond standard tables, using custom coordinate math to render spending habits as a living solar system of data.
+Subscription Calendar transforms boring financial lists into a fluid, interactive calendar and radial visualization system. It moves beyond standard tables, using custom coordinate math to render spending habits as a living solar system of data.
 
 ---
 
